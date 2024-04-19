@@ -1,10 +1,10 @@
 ## Welcome to My GitHub Profile! 👋
 
 Hi, I'm Alex Butler, founder of **VritraSecz** (Vritra Security Organization). Known as `hacker.alex` on TryHackMe, I'm in the top 1% with a worldwide rank of under #300! 🔥 I specialize in cybersecurity and open-source projects, always seeking to improve my skills and share knowledge with the community.
-<!--
+
 <p align="center"><a href="https://github.com/VritraSecz">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=VritraSecz&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
--->
+
 <p align="center"><a href="https://github.com/VritraSecz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VritraSecz&layout=compact&theme=react&hide_border=true" />
 </a></p>
 
