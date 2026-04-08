@@ -13,6 +13,7 @@
 
 <a href="https://github.com/VritraSecz"><img src="https://img.shields.io/badge/GitHub-VritraSecz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://vritrasec.com"><img src="https://img.shields.io/badge/Site-vritrasec.com-1a1b26?style=for-the-badge&logoColor=7aa2f7" alt="Website" /></a>
+<a href="https://tools.vritrasec.com"><img src="https://img.shields.io/badge/Toolkit-tools.vritrasec.com-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="Toolkit - browser utilities" /></a>
 <a href="https://link.vritrasec.com"><img src="https://img.shields.io/badge/Link%20hub-link.vritrasec.com-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="Link hub - connect with us" /></a>
 <a href="https://tryhackme.com/p/hacker.alex"><img src="https://img.shields.io/badge/TryHackMe-hacker.alex-212C42?style=for-the-badge" alt="TryHackMe" /></a>
 
@@ -47,6 +48,7 @@ We ship **multiple projects** as **subdomains** on the same ecosystem - for exam
 | 🔗 **Nexus** | **[nexus.vritrasec.com](https://nexus.vritrasec.com)** |
 | 🤖 **Vritra AI** | **[vritraai.vritrasec.com](https://vritraai.vritrasec.com)** |
 | ✒️ **FontLab** | **[fontlab.vritrasec.com](https://fontlab.vritrasec.com)** |
+| 🧰 **Toolkit** | **[tools.vritrasec.com](https://tools.vritrasec.com)** — browser-based utilities (encoding, dev, security, analysis) |
 | ➕ **More** | *Additional tools and surfaces on `*.vritrasec.com` - stay tuned on the main site.* |
 
 ---
@@ -57,6 +59,7 @@ Ways to **connect with us**, explore the **full network**, or reach out **direct
 
 | | |
 |:---|:---|
+| **Toolkit** | **[tools.vritrasec.com](https://tools.vritrasec.com)** — catalog of browser-based tools from VritraSec. |
 | **Link hub** | **[link.vritrasec.com](https://link.vritrasec.com)** - curated links to our ecosystem, socials, and outlets (*connect with us*). |
 | **Direct contact** | **[Get in touch](https://vritrasec.com/more/get-in-touch)** on vritrasec.com - for messages straight to the team. |
 | **Business email** | **[contact@vritrasec.com](mailto:contact@vritrasec.com)** - partnerships, inquiries, and formal contact. |
@@ -133,7 +136,7 @@ Ways to **connect with us**, explore the **full network**, or reach out **direct
 
 **Engineering & collabs** - security tooling, automation, odd Linux problems: **[open an issue](https://github.com/VritraSecz)**.
 
-**Connect** - **[link.vritrasec.com](https://link.vritrasec.com)** (network hub) · **[Get in touch](https://vritrasec.com/more/get-in-touch)** · **[contact@vritrasec.com](mailto:contact@vritrasec.com)**
+**Connect** - **[tools.vritrasec.com](https://tools.vritrasec.com)** (Toolkit) · **[link.vritrasec.com](https://link.vritrasec.com)** (network hub) · **[Get in touch](https://vritrasec.com/more/get-in-touch)** · **[contact@vritrasec.com](mailto:contact@vritrasec.com)**
 
 *📌 Pinned repos = where the action is · [all repositories](https://github.com/VritraSecz?tab=repositories)*
 
