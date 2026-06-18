@@ -45,7 +45,9 @@ We ship **multiple projects** as **subdomains** on the same ecosystem - for exam
 | | |
 |:---|:---|
 | 🏠 **Main site** | **[vritrasec.com](https://vritrasec.com)** |
-| 🔗 **Nexus** | **[nexus.vritrasec.com](https://nexus.vritrasec.com)** |
+| 🤖 **Glitch AI Terminal** | **[glitch.vritrasec.com](https://glitch.vritrasec.com)** |
+| ⚡ **Vitty Terminal** | **[vitty.vritrasec.com](https://vitty.vritrasec.com)** |
+| 🌐 **Nexus** | **[nexus.vritrasec.com](https://nexus.vritrasec.com)** |
 | 🤖 **Vritra AI** | **[vritraai.vritrasec.com](https://vritraai.vritrasec.com)** |
 | ✒️ **FontLab** | **[fontlab.vritrasec.com](https://fontlab.vritrasec.com)** |
 | 🧰 **Toolkit** | **[tools.vritrasec.com](https://tools.vritrasec.com)** — browser-based utilities (encoding, dev, security, analysis) |
